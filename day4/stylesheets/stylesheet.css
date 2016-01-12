@@ -1,0 +1,72 @@
+body{
+  background-image: url("../images/background.jpg"); 
+}
+
+.title{
+  text-align: center;
+}
+
+ .nav-bar ul{
+  text-align: center;
+  background-color: grey; 
+  padding: 20px
+ }
+
+ .nav-bar li {
+    display: inline;
+}
+
+.nav-bar a{
+  color: blue;
+}
+
+.nav-bar a:hover{
+  color:red;
+}
+
+.vert-menu{
+  float: left;
+}
+.vert-menu ul{
+  list-style-type: none;
+  padding-left: 10px;
+  margin-top: 2px;
+}
+
+.vert-menu li{
+  padding: 2px;
+}
+
+.vert-menu a:hover{
+  color:green;
+}
+
+.vert-nav-titles{
+  margin-bottom: 0px
+}
+
+
+.article {
+  float: right;
+  max-width: 80%; 
+}
+.pics{
+  width: 250px;
+  height: 250px;
+  float:left;
+  padding-right: 150px;
+  margin-top: 75px;
+}
+
+
+
+
+#foot{
+  background: grey;
+  position: fixed;
+  bottom:0;
+  text-align: center;
+  width: 100%;
+}
+
+

@@ -1,0 +1,28 @@
+header{
+  background:#333;
+  text-align: center;
+}
+
+#logo{
+  display: block;
+  border:none;
+}
+
+#logo img{
+  display: block;
+  margin: .5em auto 1em auto;
+  border: none;
+}
+
+img{
+  max-width: 100%;
+}
+
+ul, menu{
+  display:block;
+}
+
+.list-divider-pipe{
+  margin: 0;
+  padding: 0  ;
+}
